@@ -1,0 +1,444 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-color: aliceblue;
+}
+.img{
+    align-items: center;
+    text-align: center;
+    background-color: aliceblue;;
+    
+}
+img{
+    align-items: center;
+    text-align: center;
+    background-position: center;
+    background-size: contain;
+    height: 250px;
+    width: 400px;
+    border-radius: 30px;
+    padding-top: 50px;
+}
+.card{
+    border: 5px solid rgba(6, 0, 12, 0.368);
+
+}
+ /* Q-no.1 */
+.option1{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option1 span{
+    padding: 4px 120px 4px 4px;
+    background-color: brown;
+    border-radius: 5px;
+    color: #fff;
+}
+.option2{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option2 span{
+    padding: 4px 128px 4px 4px;
+    background-color: brown;
+    border-radius: 5px;
+    color: #fff;
+}
+.option3{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option3 span{
+    padding: 4px 117px 4px 4px;
+    background-color: brown;
+    border-radius: 5px;
+    color: #fff;
+}
+.option4{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option4 span{
+    padding: 4px 130px 4px 4px;
+    background-color: brown;
+    border-radius: 5px;
+    color: #fff;
+}
+ /* Q-no.2 */
+.option5{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option5 span{
+    padding: 4px 130px 4px 4px;
+    background-color: teal;
+    border-radius: 5px;
+    color: #fff;
+}
+.option6{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option6 span{
+    padding: 4px 115px 4px 4px;
+    background-color: teal;
+    border-radius: 5px;
+    color: #fff;
+}
+.option7{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option7 span{
+    padding: 4px 136px 4px 4px;
+    background-color: teal;
+    border-radius: 5px;
+    color: #fff;
+}
+.option8{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option8 span{
+    padding: 4px 99px 4px 4px;
+    background-color: teal;
+    border-radius: 5px;
+    color: #fff;
+}
+ /* Q-no.3 */
+.option9{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option9 span{
+    padding: 4px 98px 4px 4px;
+    background-color: red;
+    border-radius: 5px;
+    color: #fff;
+}
+.option10{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option10 span{
+    padding: 4px 101px 4px 4px;
+    background-color: red;
+    border-radius: 5px;
+    color: #fff;
+}
+.option11{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option11 span{
+    padding: 4px 102px 4px 4px;
+    background-color: red;
+    border-radius: 5px;
+    color: #fff;
+}
+.option12{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option12 span{
+    padding: 4px 101px 4px 4px;
+    background-color: red;
+    border-radius: 5px;
+    color: #fff;
+}
+ /* Q-no.4 */
+.option13{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option13 span{
+    padding: 4px 105px 4px 4px;
+    background-color: navy;
+    border-radius: 5px;
+    color: #fff;
+}
+.option14{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option14 span{
+    padding: 4px 105px 4px 4px;
+    background-color: navy;
+    border-radius: 5px;
+    color: #fff;
+}
+.option15{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option15 span{
+    padding: 4px 105px 4px 4px;
+    background-color: navy;
+    border-radius: 5px;
+    color: #fff;
+}
+.option16{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option16 span{
+    padding: 4px 105px 4px 4px;
+    background-color: navy;
+    border-radius: 5px;
+    color: #fff;
+}
+/* Q-no.5 */
+.option17{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option17 span{
+    padding: 4px 96px 4px 4px;
+    background-color: rgb(187, 0, 112);
+    border-radius: 5px;
+    color: #fff;
+}
+.option18{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option18 span{
+    padding: 4px 96px 4px 4px;
+    background-color: rgb(187, 0, 112);
+    border-radius: 5px;
+    color: #fff;
+}
+.option19{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option19 span{
+    padding: 4px 96px 4px 4px;
+    background-color:  rgb(187, 0, 112);
+    border-radius: 5px;
+    color: #fff;
+}
+.option20{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option20 span{
+    padding: 4px 96px 4px 4px;
+    background-color:  rgb(187, 0, 112);
+    border-radius: 5px;
+    color: #fff;
+}
+/* Q-no.6 */
+.option21{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option21 span{
+    padding: 4px 120px 4px 4px;
+    background-color: rgb(1, 75, 124);
+    border-radius: 5px;
+    color: #fff;
+}
+.option22{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option22 span{
+    padding: 4px 127px 4px 4px;
+    background-color: rgb(1, 75, 124);
+    border-radius: 5px;
+    color: #fff;
+}
+.option23{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option23 span{
+    padding: 4px 123px 4px 4px;
+    background-color:  rgb(1, 75, 124);
+    border-radius: 5px;
+    color: #fff;
+}
+.option24{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option24 span{
+    padding: 4px 96px 4px 4px;
+    background-color:  rgb(1, 75, 124);
+    border-radius: 5px;
+    color: #fff;
+}
+/* Q-no.7 */
+.option25{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option25 span{
+    padding: 4px 149px 4px 4px;
+    background-color: rgb(125, 187, 0);
+    border-radius: 5px;
+    color: #fff;
+}
+.option26{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option26 span{
+    padding: 4px 141px 4px 4px;
+    background-color: rgb(125, 187, 0);
+    border-radius: 5px;
+    color: #fff;
+}
+.option27{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option27 span{
+    padding: 4px 138px 4px 4px;
+    background-color:  rgb(125, 187, 0);
+    border-radius: 5px;
+    color: #fff;
+}
+.option28{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option28 span{
+    padding: 4px 129px 4px 4px;
+    background-color:  rgb(125, 187, 0);
+    border-radius: 5px;
+    color: #fff;
+}
+/* Q-no.8 */
+.option29{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option29 span{
+    padding: 4px 88px 4px 4px;
+    background-color: rgb(97, 5, 46);
+    border-radius: 5px;
+    color: #fff;
+}
+.option30{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option30 span{
+    padding: 4px 88px 4px 4px;
+    background-color: rgb(97, 5, 46);
+    border-radius: 5px;
+    color: #fff;
+}
+.option31{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option31 span{
+    padding: 4px 88px 4px 4px;
+    background-color:  rgb(97, 5, 46);
+    border-radius: 5px;
+    color: #fff;
+}
+.option32{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option32 span{
+    padding: 4px 88px 4px 4px;
+    background-color:  rgb(97, 5, 46);
+    border-radius: 5px;
+    color: #fff;
+}
+/* Q-no.9 */
+.option33{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option33 span{
+    padding: 4px 154px 4px 4px;
+    background-color: rgb(0, 168, 187);
+    border-radius: 5px;
+    color: #fff;
+}
+.option34{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option34 span{
+    padding: 4px 154px 4px 4px;
+    background-color: rgb(0, 168, 187);
+    border-radius: 5px;
+    color: #fff;
+}
+.option35{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option35 span{
+    padding: 4px 154px 4px 4px;
+    background-color:  rgb(0, 168, 187);
+    border-radius: 5px;
+    color: #fff;
+}
+.option36{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option36 span{
+    padding: 4px 154px 4px 4px;
+    background-color:  rgb(0, 168, 187);
+    border-radius: 5px;
+    color: #fff;
+}
+/* Q-no.10 */
+.option37{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option37 span{
+    padding: 4px 135px 4px 4px;
+    background-color: rgb(187, 90, 0);
+    border-radius: 5px;
+    color: #fff;
+}
+.option38{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option38 span{
+    padding: 4px 135px 4px 4px;
+    background-color:rgb(187, 90, 0);
+    border-radius: 5px;
+    color: #fff;
+}
+.option39{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option39 span{
+    padding: 4px 135px 4px 4px;
+    background-color: rgb(187, 90, 0);
+    border-radius: 5px;
+    color: #fff;
+}
+.option40{
+    margin: 4px 0;
+    padding: 4px 0px;
+}
+.option40 span{
+    padding: 4px 135px 4px 4px;
+    background-color: rgb(187, 90, 0);
+    border-radius: 5px;
+    color: #fff;
+}
+h2{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: rgba(62, 60, 60, 0.778)
+}
+
